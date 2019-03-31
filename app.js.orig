@@ -1,0 +1,6 @@
+const a = 5;
+<<<<<<< HEAD
+const b = 7;
+=======
+>>>>>>> change app.js
+console.log(a);
